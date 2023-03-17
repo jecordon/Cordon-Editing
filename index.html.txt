@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proofreading and Copyediting Services</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .jumbotron {
+            background-color: #f8f9fa;
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron text-center">
+            <h1>Proofreading and Copyediting Services</h1>
+            <p>Professional editing for your book, article, or manuscript</p>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h2>Our Services</h2>
+                <p>We offer proofreading and copyediting services to address grammar, spelling, logic, structure, accuracy, and coherence in your work. Our editors use Microsoft Word's Track Changes and Comment tools for a transparent editing process, ensuring your authorial voice and style are respected.</p>
+                <h3>Copyediting Guidelines</h3>
+                <ul>
+                    <li>Follow CMS 17 and MW 11 for grammar, usage, punctuation, and spelling.</li>
+                    <li>Create a style sheet for consistency and reference.</li>
+                    <li>Maintain internal consistency and logic.</li>
+                    <li>Verify quoted material and factual accuracy.</li>
+                    <li>Address endnotes according to CMS 17 guidelines.</li>
+                    <li>Query the author or editor when necessary.</li>
+                    <li>Do not rewrite to "improve" the author's style, but address grammatical errors, awkward phrasing, and repetition.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
